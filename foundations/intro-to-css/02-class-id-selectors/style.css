@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+.class_1 {
+    background-color: pink;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.class_2 {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+#id_1 {
+    color: blue;
+    font-size: 46px;
+    font-weight: 500;
+}
+
+#id_2 {
+    background-color: lightgreen;
+    font-size: 30px;
+    font-weight: 600;
+}
